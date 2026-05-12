@@ -74,12 +74,3 @@ streamlit run web_app.py
 
 Ruchita Dhakate
 
-👉 Click **Commit changes**
-
----
-
-# 🟢 STEP 2: ADD BADGES (Already Included)
-
-These lines:
-```markdown
-![Python](...)
