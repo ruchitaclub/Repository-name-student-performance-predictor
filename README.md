@@ -31,13 +31,6 @@ This is a **full-stack Machine Learning web application** that predicts student 
 
 ---
 
-## 🛠 Tech Stack
-
-- Python 🐍  
-- Streamlit 🌐  
-- Pandas 📊  
-- Scikit-learn 🤖  
-
 ---
 
 ## 📂 Project Structure
